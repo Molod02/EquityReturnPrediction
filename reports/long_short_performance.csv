@@ -1,0 +1,6 @@
+,ann_return,ann_vol,sharpe,max_drawdown,months,turnover_per_leg
+Momentum (no model),0.0086,0.1869,0.0463,-0.4447,139.0,0.2322
+Ridge,-0.0339,0.1937,-0.175,-0.5822,139.0,0.3404
+GBM,0.0096,0.1383,0.0697,-0.3391,139.0,0.4689
+Neural net,-0.0269,0.1176,-0.2286,-0.3412,139.0,0.4778
+Equal weight (long only),0.1566,0.1487,1.053,-0.2145,139.0,

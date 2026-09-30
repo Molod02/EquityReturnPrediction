@@ -1,0 +1,20 @@
+# secrets
+.env
+
+# environments
+env/
+venv/
+
+# Python / Jupyter caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data is re-created by the code
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# OS
+.DS_Store
